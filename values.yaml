@@ -1,4 +1,3 @@
-pgadmin:
-  email: dev@blameless.com
-  password: blameless
-  replicaCount: 1
+email: dev@exmaple.com
+password: blameless
+replicaCount: 1
