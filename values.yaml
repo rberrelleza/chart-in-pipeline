@@ -1,0 +1,4 @@
+pgadmin:
+  email: dev@blameless.com
+  password: blameless
+  replicaCount: 1
