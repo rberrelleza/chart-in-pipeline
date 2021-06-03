@@ -1,2 +1,2 @@
 deploy:
-  - helm upgrade --install pgadmin okteto/pgadmin
+  - helm upgrade --install pgadmin okteto/pgadmin -f values.yaml
